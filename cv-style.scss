@@ -1,0 +1,57 @@
+$primary-colour: rgb(39, 55, 77);
+$accent-colour: rgb(82, 109, 130);
+$text-colour: rgb(221, 230, 237);
+
+@font-face {
+    font-family: Sono;
+    src: url(./fonts/Sono/Sono-VariableFont_MONO\,wght.ttf);
+}
+
+@font-face {
+    font-family: cairoPlay;
+    src: url(./fonts/Cairo_Play/CairoPlay-VariableFont_slnt\,wght.ttf);
+}
+
+@font-face {
+    font-family: Geometos;
+    src: url(./fonts/Geometos/Geometos.ttf);
+}
+
+body {
+    font-family: Sono;
+    color: $text-colour;
+    background-color: $primary-colour;
+}
+
+h1 {
+    font-family: Geometos;
+}
+
+h2 {
+    font-family: cairoPlay;
+    color: $accent-colour;
+}
+
+a:link {
+    color: $accent-colour;
+}
+
+a:visited {
+    color: $accent-colour;
+}
+
+#main-container {
+    padding: 20px;
+}
+
+#my-portrait {
+    vertical-align: middle;
+    width: 200px;
+    filter: drop-shadow(-6px 5px rgba($accent-colour, .25));
+}
+
+.icon {
+    display: inline-block;
+    vertical-align: middle;
+    width: 1em;
+}

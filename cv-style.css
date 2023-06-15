@@ -1,0 +1,50 @@
+@font-face {
+  font-family: Sono;
+  src: url(./fonts/Sono/Sono-VariableFont_MONO\,wght.ttf);
+}
+@font-face {
+  font-family: cairoPlay;
+  src: url(./fonts/Cairo_Play/CairoPlay-VariableFont_slnt\,wght.ttf);
+}
+@font-face {
+  font-family: Geometos;
+  src: url(./fonts/Geometos/Geometos.ttf);
+}
+body {
+  font-family: Sono;
+  color: rgb(221, 230, 237);
+  background-color: rgb(39, 55, 77);
+}
+
+h1 {
+  font-family: Geometos;
+}
+
+h2 {
+  font-family: cairoPlay;
+  color: rgb(82, 109, 130);
+}
+
+a:link {
+  color: rgb(82, 109, 130);
+}
+
+a:visited {
+  color: rgb(82, 109, 130);
+}
+
+#main-container {
+  padding: 20px;
+}
+
+#my-portrait {
+  vertical-align: middle;
+  width: 200px;
+  filter: drop-shadow(-6px 5px rgba(82, 109, 130, 0.25));
+}
+
+.icon {
+  display: inline-block;
+  vertical-align: middle;
+  width: 1em;
+}/*# sourceMappingURL=cv-style.css.map */
