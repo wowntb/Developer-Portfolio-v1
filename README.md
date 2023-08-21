@@ -4,7 +4,7 @@ newly acquired skills in this project with HTML, CSS, and JS, and I demonstrated
 
 # Using/installing
 You can download the repository as a zip if you'd like.
-My portfolio webpage is being hosted by GitHub Pages. You can visit it at https://wowntb.github.io/MyCV/
+My portfolio webpage is being hosted by GitHub Pages. You can visit it at https://wowntb.github.io/My-Portfolio/
 
 ## Credits
 I, Nathenale, am the sole contributor of this project. All coding was done by me.
