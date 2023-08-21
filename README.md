@@ -1,4 +1,4 @@
-# MyCV
+# My Portfolio
 This webpage is my portfolio as a developer. I had to make a CV that can be used for a real job application to show to employers. I showcased all my 
 newly acquired skills in this project with HTML, CSS, and JS, and I demonstrated my eye for design.
 
