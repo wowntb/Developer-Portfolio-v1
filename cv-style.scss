@@ -1,5 +1,6 @@
 $primary-colour: rgb(39, 55, 77);
 $accent-colour: rgb(82, 109, 130);
+$link-colour: hsl(20, 100%, 50%);
 $text-colour: rgb(221, 230, 237);
 
 @font-face {
@@ -32,12 +33,9 @@ h2 {
     color: $accent-colour;
 }
 
-a:link {
-    color: $accent-colour;
-}
-
-a:visited {
-    color: $accent-colour;
+a {
+    text-decoration: none;
+    color: $link-colour;
 }
 
 #main-container {

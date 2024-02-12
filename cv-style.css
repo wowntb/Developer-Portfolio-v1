@@ -25,12 +25,9 @@ h2 {
   color: rgb(82, 109, 130);
 }
 
-a:link {
-  color: rgb(82, 109, 130);
-}
-
-a:visited {
-  color: rgb(82, 109, 130);
+a {
+  text-decoration: none;
+  color: hsl(20, 100%, 50%);
 }
 
 #main-container {
