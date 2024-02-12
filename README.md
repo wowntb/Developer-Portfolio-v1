@@ -7,4 +7,4 @@ You can download the repository as a zip if you'd like.
 My portfolio webpage is being hosted by GitHub Pages. You can visit it at https://wowntb.github.io/My-Portfolio-v1/.
 
 ## Credits
-I, Nathenale, am the sole contributor of this project. All coding was done by me.
+I, Nathenale, am the sole contributor of this project.
