@@ -54,6 +54,18 @@ a {
     width: 3em;
 }
 
+.profiles .icon {
+    width: 1em;
+}
+
+.profiles p {
+    background-color: white;
+    border-radius: 10px;
+    display: inline-block;
+    padding: 10px;
+    margin: 5px;
+}
+
 .skills-container {
     display: grid;
     max-width: 1000px;
